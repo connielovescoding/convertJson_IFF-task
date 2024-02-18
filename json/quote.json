@@ -1,0 +1,27 @@
+[
+  {
+    "currency_pair" : "AUD/USD",
+    "bid": 0.69012,
+    "ask": 0.68988
+  },
+  {
+    "currency_pair" : "CNH/HKD",
+    "bid": 1.1448,
+    "ask": 1.1443
+  },
+  {
+    "currency_pair" : "EUR/USD",
+    "bid": 1.0662,
+    "ask": 1.0661
+  },
+  {
+    "currency_pair" : "GBP/USD",
+    "bid": 1.211,
+    "ask": 1.2108
+  },
+  {
+    "currency_pair" : "NZD/USD",
+    "bid": 0.6362,
+    "ask": 0.6361
+  }
+]
